@@ -2,6 +2,8 @@
 # print command before executing, and exit when any command fails
 set -e
 
+# cheshixiugai
+
 # 更新系统
 pacman -Syu
 
