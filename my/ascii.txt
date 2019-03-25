@@ -9,7 +9,7 @@
 |        |w|a|n|g|m|s|1|6|8|d|o|t|f|i|l|e|s|       |
 |        +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+       |
 |                                                  |
-| Author: Ren wangms168                            |
+| Author: wangms168                                |
 | Email : wangms168@wms_88.com                     |
 | Reqo  : https://github.com/wangms168/dotfiles    |
 |                                                  |
